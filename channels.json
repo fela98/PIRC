@@ -1,0 +1,10 @@
+{
+	"throttle": {
+		"pin": 18,
+		"defaultValue": 0.5
+	},
+	"steering": {
+		"pin": 17,
+		"defaultValue": 0.5
+	}
+}

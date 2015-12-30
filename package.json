@@ -1,0 +1,17 @@
+{
+  "name": "car-drone-server",
+  "version": "0.0.1",
+  "description": "A Server that controls an RC car or other RC equipment",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "pi-blaster.js": "^0.1.1",
+    "socket.io": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Schoeler",
+  "license": "ISC"
+}
